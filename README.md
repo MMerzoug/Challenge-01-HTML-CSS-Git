@@ -14,5 +14,6 @@ Referenced Modzilla Web Development Blog and Code Source for additional guidance
 NA
 
 ## Image
+![WebpageImage](./assets/images/webpage-image.png)
 
 ## Link
