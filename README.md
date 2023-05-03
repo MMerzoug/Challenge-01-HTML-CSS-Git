@@ -17,3 +17,6 @@ NA
 ![WebpageImage](./assets/images/webpage-image.png)
 
 ## Link
+URL of deployed application: https://mmerzoug.github.io/Challenge-01-HTML-CSS-Git/
+
+URL of GitHub repository: https://github.com/MMerzoug/Challenge-01-HTML-CSS-Git.git
